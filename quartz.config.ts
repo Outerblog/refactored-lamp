@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "refactored-lamp 💡",
+    pageTitle: "refactored lamp 💡",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
